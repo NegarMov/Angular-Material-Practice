@@ -1,0 +1,63 @@
+mat-sidenav-container {
+    height: 100%;
+}
+
+mat-sidenav {
+    padding: 2rem;
+}
+
+mat-sidenav-content {
+    padding: 5rem;
+}
+
+mat-sidenav {
+    width: 25%;
+}
+
+mat-divider {
+    margin: 2rem 1rem 2rem 1rem;
+}
+
+mat-grid-tile {
+    background-color: lightcoral;
+}
+
+mat-card {
+    max-width: 250px;
+}
+
+mat-form-field {
+    margin-right: 3rem;
+}
+
+mat-radio-button {
+    margin-right: 2rem;
+}
+
+.container {
+    padding: 4rem;
+}
+
+.mat-fab {
+    margin-right: 8rem;
+    padding-left: 10px;
+}
+
+button {
+    margin-right: 1rem;
+}
+
+.number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightcoral;
+    box-sizing: border-box;
+    height: 50px;
+    width: 200px;
+}
+
+cdk-virtual-scroll-viewport {
+    height: 250px;
+    width: 250px;
+}

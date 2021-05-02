@@ -73,3 +73,11 @@ table:hover {
 .tabel-container {
     width: 80%;
 }
+
+.mat-row:nth-child(even) {
+    background-color: rgb(100, 99, 99);
+}
+        
+.mat-row:nth-child(odd) {
+    background-color: rgb(85, 83, 83);
+}
